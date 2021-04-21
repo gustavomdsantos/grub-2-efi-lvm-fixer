@@ -4,7 +4,7 @@ This script do or undo the forced 30 seconds of the _default boot entry timeout_
 
 ## Download
 
-Click [here]() to download the script.
+Click [here](http://bit.ly/GRUB2fixer) to download the script.
 
 ## Usage
 
