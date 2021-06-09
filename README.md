@@ -24,6 +24,6 @@ sudo ./EFI-LVM_GRUB2_fixer.sh
 
 ## Contributing
 
-Do you want to contribute to this simple project? You can Fork this repository, make commits and later, make a Pull Request. You can report a bug or suggest anything in Issues section too.
+Do you want to contribute to this project? You can Fork this repository, make commits and later, make a Pull Request. You can report a bug or suggest anything in Issues section too.
 
 Licenced with GNU GPL 3.0 @2021 Gustavo Moraes.
